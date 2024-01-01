@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "380358041298",
+    "project_id": "xfood-5aaa5",
+    "storage_bucket": "xfood-5aaa5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380358041298:android:fff840009590bc4212970b",
+        "android_client_info": {
+          "package_name": "com.firstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380358041298-lrnv7qhef9sg86o279e67bdlp5rsdk9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy8hbIbXNmzvyE6_bTZ5AWi5gnXR66JIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380358041298-lrnv7qhef9sg86o279e67bdlp5rsdk9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
